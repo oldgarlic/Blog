@@ -56,7 +56,7 @@ public class JdbcTest {
 
 mybatis将编写sql的框架代码分离，交由程序员操作。
 
-![1](D:\计算机笔记\myBlog\Blog\mybatis\images\1.png)
+![1](https://github.com/oldgarlic/Blog/blob/master/mybatis/images/1.png)
 
 ### 1、流程
 
